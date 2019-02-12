@@ -1,0 +1,1 @@
+{"errors":[{"message":"Variable \"$next_slug\" got invalid value null; Expected non-nullable type String! not to be null.","locations":[{"line":4,"column":3}]}],"pageContext":{"post_slug":"/blog/is-the-world-growing-up/","img_path":"work/earthrise-ted.jpg","prev_slug":"/blog/synesthesia/","next_slug":null}}
