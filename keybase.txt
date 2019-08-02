@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bennmcgregor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bennmcgregor.com
+  * I am bennmcgregor (https://keybase.io/bennmcgregor) on keybase.
+  * I have a public key ASBFbLLEPS6QiHA0__T8cl08dBbTr3enWi4wilIpqaUpVQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120456cb2c43d2e90887034fff4fc725d3c7416d3af77a75a2e308a5229a9a529550a",
+      "host": "keybase.io",
+      "kid": "0120456cb2c43d2e90887034fff4fc725d3c7416d3af77a75a2e308a5229a9a529550a",
+      "uid": "f51c22b8a067bd18665c0730f84cfc19",
+      "username": "bennmcgregor"
+    },
+    "merkle_root": {
+      "ctime": 1564704035,
+      "hash": "3f2a3a0f8f197ad67cf5b933c31317c5a2cc8d46430d98a44278859daad5c7e4460421a733e7b62708159e55fdc4ec8be46a930c4ea5ece149575a038d66ffe2",
+      "hash_meta": "aebd7ae0c5059fd813fc26bc0cce28611f318b18cdf2d0ca9c73b41e1d380c5a",
+      "seqno": 5913409
+    },
+    "service": {
+      "entropy": "MsKMFCY8n9dgFw1wUa4K8+VY",
+      "hostname": "bennmcgregor.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1564704068,
+  "expire_in": 504576000,
+  "prev": "6bec841550354117f50b77664d0f4e2b4d60ad795832ecd53796d0be9a6b4fd9",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRWyyxD0ukIhwNP/0/HJdPHQW0693p1ouMIpSKamlKVUKp3BheWxvYWTESpcCC8Qga+yEFVA1QRf1C3dmTQ9OK01grXlYMuzVN5bQvpprT9nEIPq7OObmYMoU+aHHmGlLf5dskllfDPGq2iDBRlVGDBSTAgHCo3NpZ8RAwXLmsO2vRiQ62+ivzLv1SDi9dcVdRhlAo/oE3uGG5dFKD26TGkD1zKJkkL9qtpIjWLqxqFQK2eHFou23ItnGAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAwo6ShQSmFp+O1opZOSTFvnzcsmhpZRcyP1NkxFPrtFo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bennmcgregor
+
+==================================================================
