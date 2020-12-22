@@ -1,1 +1,0 @@
-{"errors":[{"message":"Variable \"$img_path\" got invalid value null; Expected non-nullable type String! not to be null.","locations":[{"line":5,"column":3}]}],"pageContext":{"post_slug":"/blog/june-28/","img_path":null,"prev_slug":null,"next_slug":"/blog/the-internet-as-a-city/"}}

@@ -1,1 +1,0 @@
-{"errors":[{"message":"Variable \"$prev_slug\" of required type \"String!\" was not provided.","locations":[{"line":3,"column":3}]},{"message":"Variable \"$next_slug\" of required type \"String!\" was not provided.","locations":[{"line":4,"column":3}]}],"pageContext":{"post_slug":"/blog/is-the-world-growing-up/","img_path":"work/earthrise-ted.jpg"}}
